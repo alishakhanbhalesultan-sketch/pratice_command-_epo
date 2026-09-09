@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY app.py .
 
-CMD ["python", "app.py"]
+CMD ["tail", "-f", "/dev/null"]
 
 
 
