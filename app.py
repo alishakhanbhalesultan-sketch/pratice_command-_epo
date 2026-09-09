@@ -1,5 +1,5 @@
-name = "Alish pathan"
-id = 1234567
+name = "johen deo "
+id = 12345678910
 standard = "10th Grade"
 print(f"Student Name: {name}")
 print(f"Student ID: {id}")
